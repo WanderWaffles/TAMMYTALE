@@ -1,0 +1,1643 @@
+fileFormatVersion: 2
+guid: 9f1cfee034c3fa94081e1912066c45ed
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TemmieFIGhtSprites_0
+    21300002: TemmieFIGhtSprites_1
+    21300004: TemmieFIGhtSprites_2
+    21300006: TemmieFIGhtSprites_3
+    21300008: TemmieFIGhtSprites_4
+    21300010: TemmieFIGhtSprites_5
+    21300012: TemmieFIGhtSprites_6
+    21300014: TemmieFIGhtSprites_7
+    21300016: TemmieFIGhtSprites_8
+    21300018: TemmieFIGhtSprites_9
+    21300020: TemmieFIGhtSprites_10
+    21300022: TemmieFIGhtSprites_11
+    21300024: TemmieFIGhtSprites_12
+    21300026: TemmieFIGhtSprites_13
+    21300028: TemmieFIGhtSprites_14
+    21300030: TemmieFIGhtSprites_15
+    21300032: TemmieFIGhtSprites_16
+    21300034: TemmieFIGhtSprites_17
+    21300036: TemmieFIGhtSprites_18
+    21300038: TemmieFIGhtSprites_19
+    21300040: TemmieFIGhtSprites_20
+    21300042: TemmieFIGhtSprites_21
+    21300044: TemmieFIGhtSprites_22
+    21300046: TemmieFIGhtSprites_23
+    21300048: TemmieFIGhtSprites_24
+    21300050: TemmieFIGhtSprites_25
+    21300052: TemmieFIGhtSprites_26
+    21300054: TemmieFIGhtSprites_27
+    21300056: TemmieFIGhtSprites_28
+    21300058: TemmieFIGhtSprites_29
+    21300060: TemmieFIGhtSprites_30
+    21300062: TemmieFIGhtSprites_31
+    21300064: TemmieFIGhtSprites_32
+    21300066: TemmieFIGhtSprites_33
+    21300068: TemmieFIGhtSprites_34
+    21300070: TemmieFIGhtSprites_35
+    21300072: TemmieFIGhtSprites_36
+    21300074: TemmieFIGhtSprites_37
+    21300076: TemmieFIGhtSprites_38
+    21300078: TemmieFIGhtSprites_39
+    21300080: TemmieFIGhtSprites_40
+    21300082: TemmieFIGhtSprites_41
+    21300084: TemmieFIGhtSprites_42
+    21300086: TemmieFIGhtSprites_43
+    21300088: TemmieFIGhtSprites_44
+    21300090: TemmieFIGhtSprites_45
+    21300092: TemmieFIGhtSprites_46
+    21300094: TemmieFIGhtSprites_47
+    21300096: TemmieFIGhtSprites_48
+    21300098: TemmieFIGhtSprites_49
+    21300100: TemmieFIGhtSprites_50
+    21300102: TemmieFIGhtSprites_51
+    21300104: TemmieFIGhtSprites_52
+    21300106: TemmieFIGhtSprites_53
+    21300108: TemmieFIGhtSprites_54
+    21300110: TemmieFIGhtSprites_55
+    21300112: TemmieFIGhtSprites_56
+    21300114: TemmieFIGhtSprites_57
+    21300116: TemmieFIGhtSprites_58
+    21300118: TemmieFIGhtSprites_59
+    21300120: TemmieFIGhtSprites_60
+    21300122: TemmieFIGhtSprites_61
+    21300124: TemmieFIGhtSprites_62
+    21300126: TemmieFIGhtSprites_63
+    21300128: TemmieFIGhtSprites_64
+    21300130: TemmieFIGhtSprites_65
+    21300132: TemmieFIGhtSprites_66
+    21300134: TemmieFIGhtSprites_67
+    21300136: TemmieFIGhtSprites_68
+    21300138: TemmieFIGhtSprites_69
+    21300140: TemmieFIGhtSprites_70
+    21300142: TemmieFIGhtSprites_71
+    21300144: TemmieFIGhtSprites_72
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 664
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41becf84bbd47f4aa5ebede9755cb70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 664
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fd5ba2669f7de42aee62731d22e428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 662
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea3d08949e75084194e0c7503ccc14e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 662
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1a9a132baaedc46bb8bbf48fed14ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 662
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02af7399ba4559f48802dcc987b3fbb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_5
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 662
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1f2a4489ff7fb439a8b6d71425d6bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_6
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 685
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62110e41f24368349bc3d1242b6a0efc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_7
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 685
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8e3e80d2e8ba04385ea349925549a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 694
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d7d14eef1d120488e7e54832d6a36b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 685
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b8c809b63c58840849fb71820c2303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 664
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dc14d650630aa44a3b0f8b755f2e1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_11
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 663
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7cc708a3b69824da0308b35de338b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_12
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 662
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8612f0cfa5598e43bc8d7eff4b6b503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 622
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bde7dc4146e41c4e91ce82a05f4e2f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 622
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35794f3689dec7544a9b5cb940225b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 622
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f025fc6b007d74d8618a939ea0063e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 624
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1bb814479b0d247b8b4027c59243b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_17
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 626
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddde87ab7ef3c14790159aea48694db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 624
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8ff6233c4f11445a2459dd74caa431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_19
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 638
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee1228266ffd6145991d32ee03eaabc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_20
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 639
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0fb7ee6b24f8a498e876b3a6178d18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_21
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 638
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa15e1e219d4844996a2c391269a6f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_22
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 614
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881a7ee9fddee184f87ed1d1b913317e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_23
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 614
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c53274f1daa2499773032f9e68f71
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_24
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 615
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f3657b0247d7e4a9791be74ad9626c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 575
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a49e89fc29077b45ac459a5233a14c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 572
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a168ca5ff5244abac16b7441dca57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_27
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 572
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773e2606cb1aca74abc74f0812eeee35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_28
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 572
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5fdc4ddf01b6140a4b8a6ce9103fbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_29
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c347e5dcdaa18646b3717366508fca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_30
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 577
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98e6655a0d603f48b78bfd0629f3771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_31
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 588
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55600fc1e86174a84600a66a5b8f39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_32
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 587
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabce4275ae90eb48b3495767776e09f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_33
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 587
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68806e67057e7b743b66e017b570aa0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_34
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 527
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0db15215d839846aac350bd7399e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_35
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 527
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25d26b3551e97243a97d41bc2325aec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 527
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70023af38327b514382a245d229e0ee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 533
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfee9f1adb9ca9c4e98ba64ca1c2e3db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_38
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 532
+        width: 73
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59744cd5f0949994593a0d118d497057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_39
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 467
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf90f72ff93e244aa50b7276b33e87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_40
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 467
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e137121cd3c308e469b30666401a5884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 462
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f63c08c37427354e857b3953abe2eac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 471
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d18bde44fe97649840a7ac90149f80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_43
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 468
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30530bbe16d28a441b3a071108d5209c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_44
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 469
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc8626b199214445bc37674a0c9478e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_45
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 478
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cbdf287314ddd4199fe893593ccbc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_46
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 478
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671811fd9fa5cae42aa200a5f349a167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_47
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 476
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d3048e62c9ca43961844511f20703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_48
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 476
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4d53fc69e667e42bf033633393691d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_49
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 475
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccbb63574c5a2947b1207ced9a3ca7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_50
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 473
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e56fb7ba64f24d8b662567e1eeca2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_51
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 473
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6985dc265c59146448df8627439b3e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 407
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4aceba95e9f2d41b8f4a7cfe0a9e63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_53
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 408
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fa677cb9e32644a88e91c5690275a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_54
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 404
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e34399b9d3b9b4aac40169c62859a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_55
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 406
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1dab3ff3ed85a7439cb3be756553f88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 431
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c880b1a2c0b54f929ef531c959851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_57
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 430
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98796082e45d8d841b28a024f3df9efa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_58
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 430
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b0105930cff0140ba7267be2e6bc53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_59
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 431
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c606055899be1af44b67575e6d778d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_60
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 430
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a77b4a872d8cf4a855edae2abafc58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_61
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 430
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e73d23283fa143b8f15d8ec42e4f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 341
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3204686309d0d2b4696d04e2c027230b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_63
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 341
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf809af45f5077e489aaf732cf4b386e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_64
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 337
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed7cb717c81e51498a17e4a88b1d156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 345
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d38bc0161962c4d967a98c312c844d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 343
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8774a9b8a78008e4b9b4d26fc8ad2855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_67
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 343
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb740a48cad3b34db0255874202c0a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_68
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 270
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb290d21f2ca5e4abfc79004365f550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 270
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7769114c067000e4f92629871230e7be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_70
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 268
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a230c7801f87ff048a51b45fe7d96283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_71
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 283
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15098c2e7c4a78544890f6b3855eeb0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TemmieFIGhtSprites_72
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 278
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb1f42c3008c4448b99bb12f0645ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cb9000aecffcae44e842bed8fefd6df8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
