@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Judgement.unity
+    guid: 5b9d7cf28760da244b2f5453b3d92a32
   m_configObjects: {}
