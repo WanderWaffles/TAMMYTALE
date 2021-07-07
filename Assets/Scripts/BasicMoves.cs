@@ -11,7 +11,7 @@ public class BasicMoves : MonoBehaviour
     private float vertical1;
     public float Horizontal1 { get { return horizontal1; } private set { horizontal1 = value; } }
 
-    private float Velocity = 500;
+    private float Velocity = 300;
 
     public float velocity { get{return Velocity;} set{ Velocity = value; }}
     public LayerMask PlayerCollisionWith =8;
