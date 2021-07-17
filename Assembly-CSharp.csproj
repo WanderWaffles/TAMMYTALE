@@ -58,6 +58,7 @@
      <Compile Include="Assets\Scripts\CutScene_Controller.cs" />
      <Compile Include="Assets\Scripts\Dialogue.cs" />
      <Compile Include="Assets\Scripts\Pillar_Movement.cs" />
+     <Compile Include="Assets\Scripts\Scene_Manager.cs" />
      <Compile Include="Assets\Scripts\Trigger_Dialogue.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
