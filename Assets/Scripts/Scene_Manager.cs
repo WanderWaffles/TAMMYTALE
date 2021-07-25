@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Scene_Manager : MonoBehaviour {
     public void ChangeScene(){
-        //index=0
+        //Optimizar este codigo para futuro uso
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
     }
     public void Exit(){
